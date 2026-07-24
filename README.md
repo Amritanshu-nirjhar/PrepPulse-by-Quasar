@@ -73,7 +73,7 @@ All colors are defined as CSS custom properties at the top of the `<style>` bloc
 
 ---
 
-## Limitations
+## Limitations ##
 
 This is a **front-end concept/demo only**:
 - No backend, database, or authentication is implemented — the login form and SSO button are UI mockups
@@ -84,6 +84,6 @@ To make this production-ready, you'd want to add: a backend + database for loggi
 
 ---
 
-## Credits
+## Credit
 
 Designed and built as **PrepPulse**, a project by ***Quasar***

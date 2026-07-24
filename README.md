@@ -86,4 +86,4 @@ To make this production-ready, you'd want to add: a backend + database for loggi
 
 ## Credits
 
-Designed and built as **PrepPulse**, a project by **Quasar**.
+Designed and built as **PrepPulse**, a project by ***Quasar***

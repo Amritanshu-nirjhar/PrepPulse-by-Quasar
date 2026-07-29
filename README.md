@@ -48,7 +48,7 @@ Because everything is inline in one file, you can host it anywhere: drop it on G
 
 ---
 
-## Design system
+## Design system ##
 
 | Token | Value | Use |
 |---|---|---|
@@ -86,6 +86,4 @@ To make this production-ready, you'd want to add: a backend + database for loggi
 
 ## Credit
 
-Designed and built as **PrepPulse**, a project by ***Quasar***
-...
-.....
+Designed and built as **PrepPulse**, a project by ***Quasar***.

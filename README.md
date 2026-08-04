@@ -80,7 +80,8 @@ This is a **front-end concept/demo only**:
 - The chatbot conversation is scripted/static, not a live AI integration
 - Dashboard figures are sample data for illustration, not real statistics
 
-To make this production-ready, you'd want to add: a backend + database for logging consumption/leftovers, a forecasting model, real authentication, and a live LLM-backed chatbot endpoint....
+To make this production-ready, you'd want to add: a backend + database for logging consumption/leftovers, a forecasting model, real authentication, and a live LLM-backed chatbot endpoint......
+
 
 ---
 

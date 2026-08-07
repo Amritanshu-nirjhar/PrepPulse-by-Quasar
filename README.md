@@ -69,7 +69,8 @@ All colors are defined as CSS custom properties at the top of the `<style>` bloc
 - **Logo/branding**: the Quasar mark is inline SVG in the `<nav>`, footer, and login panel. Swap it for a real logo file by replacing the `<svg>...</svg>` blocks with an `<img>` tag.
 - **Copy & stats**: all text lives directly in the HTML — search for the section by its `id` (`#about`, `#how`, `#chatbot`, `#impact`) to edit.
 - **Dashboard numbers**: the figures in the "Sample dashboard" section are clearly labeled as **illustrative example data**, not verified real-world statistics. Replace them with real numbers once connected to actual mess data.
-- **Login logic**: the form currently has no backend — `onsubmit="return false;"` just prevents the page from reloading. Wire it up to your auth provider or API of choice....
+- **Login logic**: the form currently has no backend — `onsubmit="return false;"` just prevents the page from reloading. Wire it up to your auth provider or API of choice......
+- 
 
 ---
 
